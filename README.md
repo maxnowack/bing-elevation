@@ -19,3 +19,4 @@ elevationClient.elevationsForCoordinates(coordinates, function(err, response) {
     // set of elevations in response.resourceSets[0].resources[0].elevations
 });
  ```
+
