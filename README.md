@@ -1,5 +1,7 @@
 # bing-elevation
 
+https://travis-ci.org/timfpark/bing-elevation.svg
+
 Node.js module for using the Bing Maps Elevation API.
 
 ## Usage
