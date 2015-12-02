@@ -1,6 +1,6 @@
 # bing-elevation
 
-https://travis-ci.org/timfpark/bing-elevation.svg
+![Build Status](https://travis-ci.org/timfpark/bing-elevation.svg "Build Status")
 
 Node.js module for using the Bing Maps Elevation API.
 
