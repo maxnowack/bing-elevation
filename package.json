@@ -1,6 +1,6 @@
 {
   "name": "bing-elevation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bing Maps Elevation API module",
   "main": "lib/index.js",
   "scripts": {
